@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rizzz-X/rizzz-X/output/snake.svg" alt="Snake animation" />
 
 ###
